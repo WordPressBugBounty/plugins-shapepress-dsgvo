@@ -1,0 +1,37 @@
+<wpml-config>
+    <admin-texts>
+        <key name="sp_dsgvo_spdsgvo_company_info_name"/>
+        <key name="sp_dsgvo_spdsgvo_company_info_street"/>
+        <key name="sp_dsgvo_spdsgvo_company_info_loc_zip"/>
+        <key name="sp_dsgvo_spdsgvo_company_fn_nr"/>
+        <key name="sp_dsgvo_spdsgvo_company_law_loc"/>
+        <key name="sp_dsgvo_spdsgvo_company_law_person"/>
+        <key name="sp_dsgvo_spdsgvo_company_chairmen"/>
+        <key name="sp_dsgvo_spdsgvo_company_resp_content"/>
+        <key name="sp_dsgvo_spdsgvo_company_info_phone"/>
+        <key name="sp_dsgvo_spdsgvo_company_info_fax"/>
+        <key name="sp_dsgvo_spdsgvo_company_info_email"/>
+        <key name="sp_dsgvo_spdsgvo_newsletter_service_privacy_policy_url"/>
+        <key name="sp_dsgvo_cookie_notice_text"/>
+        <key name="sp_dsgvo_woo_privacy_text"/>
+        <key name="sp_dsgvo_imprint"/>
+        <key name="sp_dsgvo_imprint_page"/>
+        <key name="sp_dsgvo_privacy_policy_page"/>
+        <key name="sp_dsgvo_privacy_policy_custom_header"/>
+        <key name="sp_dsgvo_integration_ga">
+            <key name="propertyId"></key>
+            <key name="jsCode"></key>
+        </key>
+        <key name="sp_dsgvo_integration_gtag">
+            <key name="propertyId"></key>
+            <key name="jsCode"></key>
+        </key>
+        <key name="sp_dsgvo_integration_fbpixel">
+            <key name="propertyId"></key>
+            <key name="jsCode"></key>
+        </key>
+        <key name="privacy_policy_custom_header" />
+        <key name="sar_dsgvo_accepted_text" />
+        <key name="su_dsgvo_accepted_text" />
+    </admin-texts>
+</wpml-config>

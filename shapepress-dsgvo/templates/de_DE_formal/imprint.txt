@@ -1,0 +1,18 @@
+[company_name]<br />
+Inhaber: [company_owner]<br />
+[adress_street]<br />
+[adress_zip_location]<br /><br />
+
+Gesch&auml;ftsf&uuml;hrung: [company_law_person]<br />
+Gesellschafter: [company_management]<br /><br />
+
+Telefonnummer: [comm_phone]<br />
+E-Mailadresse: [comm_email]<br />
+
+Registergericht &amp; Registernummer: [company_register_court], [company_register_nr]<br /><br />
+
+Umsatzsteuer-Identifikationsnummer: [company_uid]<br /><br />
+
+Inhaltlich verantwortlich: [content_responsible]<br /><br />
+
+Plattform der Europ&auml;ischen Kommission zur Online-Streitbeilegung (OS) f&uuml;r Verbraucher: <a href"https://ec.europa.eu/consumers/odr/" target="_blank">https://ec.europa.eu/consumers/odr/</a>. Wir sind nicht bereit und nicht verpflichtet an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.

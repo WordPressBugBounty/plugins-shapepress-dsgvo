@@ -1,0 +1,1967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shapepress-dsgvo-de_DE\n"
+"POT-Creation-Date: 2018-07-09 15:24+0200\n"
+"PO-Revision-Date: 2018-07-09 15:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: .settings\n"
+"X-Poedit-SearchPathExcluded-2: includes/integrations\n"
+
+#: admin/base.php:2
+msgid "WP DSGVO Tools"
+msgstr ""
+
+#: admin/base.php:32
+msgid "WP DSGVO Tools is not binding and does not replace expert advice"
+msgstr ""
+
+#: admin/base.php:34
+msgid "GDPR website self check"
+msgstr ""
+
+#: admin/base.php:35
+msgid "Includes only your web presence!"
+msgstr ""
+
+#: admin/base.php:40
+msgid "VdV (directory of processing times)"
+msgstr ""
+
+#: admin/base.php:40
+msgid "downloaded"
+msgstr ""
+
+#: admin/base.php:41
+msgid "filled"
+msgstr ""
+
+#: admin/base.php:47
+msgid "WP DSGVO Tools plugin completely filled"
+msgstr ""
+
+#: admin/base.php:52
+msgid ""
+"Monthly maintenance of the website (maintenance contract with the web "
+"designer)"
+msgstr ""
+
+#: admin/base.php:56
+msgid "Security Precautions (strong passwords, who has access, ...)"
+msgstr ""
+
+#: admin/base.php:60
+msgid "GDPR compliant and secure web hosting? Our recommendation:"
+msgstr ""
+
+#: admin/base.php:66
+msgid "Check the security of unsupported plugins"
+msgstr ""
+
+#: admin/base.php:71
+msgid "Expert advice"
+msgstr ""
+
+#: admin/base.php:71
+msgid "requested"
+msgstr ""
+
+#: admin/base.php:75
+msgid "Blog Edition"
+msgstr ""
+
+#: admin/base.php:77
+msgid ""
+"Stylish Cookie Notice: Customize the look & feel of your Wordpress Page!"
+msgstr ""
+
+#: admin/base.php:78
+msgid "Texts customizable with comment checkbox"
+msgstr ""
+
+#: admin/base.php:82
+msgid "Get the Blog Edition now"
+msgstr ""
+
+#: admin/base.php:84
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: admin/base.php:86
+msgid "Support & Community"
+msgstr ""
+
+#: admin/base.php:87
+msgid "Woocommerce Integration"
+msgstr ""
+
+#: admin/base.php:88
+msgid "Automatic user data reports"
+msgstr ""
+
+#: admin/base.php:89
+msgid "Email notifications"
+msgstr ""
+
+#: admin/base.php:90
+msgid "Style & Customization (from Blog Edition)"
+msgstr ""
+
+#: admin/base.php:91
+msgid "Texts customizable with comment checkbox (from Blog Edition)"
+msgstr ""
+
+#: admin/base.php:95
+msgid "Get Premium version now"
+msgstr ""
+
+#: admin/base.php:98
+msgid "FAQ & checklists"
+msgstr ""
+
+#: admin/base.php:99
+msgid "GDPR experts booking"
+msgstr ""
+
+#: admin/base.php:100
+msgid "Book legal advice"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:71 admin/tabs/privacy-policy/page.php:1
+#: public/class-sp-dsgvo-public.php:397 public/class-sp-dsgvo-public.php:400
+msgid "Privacy policy"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:72
+#: admin/tabs/imprint/class-sp-dsgvo-imprint-tab.php:11
+#: admin/tabs/imprint/page.php:1
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:61
+msgid "Imprint"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:78
+msgid "Experts Info"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:79
+msgid "Legal advice"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:80
+msgid "FAQ"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:81
+msgid "About WP DSGVO Tools"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:131
+msgid "Privacy settings user page"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:132
+msgid "Delete request page"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:133
+msgid "Terms page"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:134
+msgid "Explicit permissions page"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:135
+msgid "Opt Out page"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:136 admin/tabs/privacy-policy/page.php:12
+msgid "Privacy policy page"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:137
+msgid "Subject access request page"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:138
+msgid "Imprint page"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:189
+msgid "Privacy settings of the user"
+msgstr ""
+
+#: admin/class-sp-dsgvo-admin.php:194
+msgid "Dienste"
+msgstr ""
+
+#: admin/tabs/common-settings/class-sp-dsgvo-common-settings-activate-action.php:28
+#: admin/tabs/common-settings/class-sp-dsgvo-common-settings-activate-action.php:50
+msgid "error during license activation: "
+msgstr ""
+
+#: admin/tabs/common-settings/class-sp-dsgvo-common-settings-activate-action.php:77
+msgid "error during license details: "
+msgstr ""
+
+#: admin/tabs/common-settings/class-sp-dsgvo-common-settings-tab.php:11
+msgid "Common Settings"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:4
+msgid "Activate Premium"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:8
+msgid "License"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:15
+msgid "Premium version has been activated"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:15
+msgid "Invalid or expired license."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:18
+msgid "Activated on:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:18
+msgid "Gültig bis:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:20
+msgid "Deactivate license"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:22
+msgid "Activating the license unlocks premium features."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:23
+msgid "Activate license"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:35
+msgid "Allgemeine Einstellungen"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:39
+msgid "Admin Email"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:43
+msgid "Used by sending emails."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:46
+msgid "Use WPML Strings"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:51
+msgid "Use WPML String Translation for text inputs."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:56
+#: admin/tabs/common-settings/page.php:58
+msgid "Comments"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:58
+msgid "Customizing possible with Blog/Premium edition."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:59
+msgid "Click here to get a license."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:64
+msgid "Checkbox for comments:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:69
+msgid ""
+"Displays at checkbox which requires confirmation when creating a comment."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:73
+msgid "Replace CF7 Acceptance text"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:78
+msgid ""
+"Replaces the text of CF7 Acceptance Checkboxes with following text. (Add to "
+"your form: [acceptance dsgvo] Text[/acceptance])"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:82 admin/tabs/cookie-notice/page.php:326
+msgid "Text"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:84
+msgid "Message text:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:90
+msgid "Info text:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:98
+msgid "Confirmation text"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:109
+msgid "Company data"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:110
+msgid ""
+"The following input fields represent the basic data necessary for the "
+"creation of GDPR compliant data protection regulations and an imprint.<br /"
+">All entries made here are automatically used in the privacy policy and "
+"imprint generated by the WP DSGVO Tools Plugin."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:114
+msgid "Company name:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:121
+msgid "Street:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:128
+msgid "ZIP + Location:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:135
+msgid "Commercial book no.:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:142
+msgid "§11 Place of Jurisdiction:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:149
+msgid "VAT No.:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:156
+msgid "Legal representatives:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:160
+msgid "The person who legally represents the company."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:163
+msgid "Shareholder"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:167
+msgid "In case of companies please contact all shareholders here."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:170
+msgid "Responsible for content:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:174
+msgid "The person responsible for the content on this website."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:177
+msgid "Phone:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:184
+msgid "Email:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:191
+msgid "Newsletter service:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:195
+msgid ""
+"Name of the shipping service provider with which the newsletters will be "
+"sent."
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:198
+msgid "URL Privacy Police of Newsletter Service:"
+msgstr ""
+
+#: admin/tabs/common-settings/page.php:202
+msgid "The URL to the terms of the newsletter service."
+msgstr ""
+
+#: admin/tabs/cookie-notice/class-sp-dsgvo-cookie-notice-tab.php:11
+#: admin/tabs/cookie-notice/page.php:4 admin/tabs/cookie-notice/page.php:76
+msgid "Cookie Notice"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:8
+msgid "Tracker initialization:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:13
+msgid "When loading the page"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:14
+msgid "After approval of the cookie"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:16
+msgid ""
+"Specifies when the trackers should be active. Whether before the consent of "
+"the cookie or after clicking on Ok. For After approval Reload after approval "
+"must be checked."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:27
+msgid "Google Analyics"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:35
+msgid "GTAG number:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:42
+msgid ""
+"The IP address will be anonymously and visitors get the option refuse "
+"tracking. <br />Tip: Country specific geodata will be further tracked even "
+"with anonymization."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:50
+msgid "Facebook Pixel"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:57
+msgid "FB Pixel Id:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:64
+msgid "Visitors maintained the opportunity to reject the tracking."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:84
+msgid "Notice text:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:86
+msgid "Insert the text here"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:90
+msgid "Validity:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:96
+msgid "Tag"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:98
+msgid "Woche"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:100 admin/tabs/cookie-notice/page.php:102
+#: admin/tabs/cookie-notice/page.php:104
+msgid "Month"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:106
+msgid "Year"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:108
+msgid "For this period, the cookie is navigation use validly."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:117
+msgid "Confirmation"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:122 admin/tabs/cookie-notice/page.php:159
+#: admin/tabs/cookie-notice/page.php:207
+msgid "Button text:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:127
+msgid "zB.: Ok"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:128
+msgid "The text to be displayed is to accept the note and hide the message."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:133
+msgid "Reload after confirm:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:139
+msgid "Enable this option to reload the page after accepting cookies."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:144 public/class-sp-dsgvo-public.php:172
+msgid "Decline"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:149 admin/tabs/cookie-notice/page.php:196
+msgid "Button active:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:165
+msgid "eg.: Decline"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:166
+msgid "The text of the option to decline cookies."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:171
+msgid "Link target for rejection:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:177
+msgid "zb.: www.google.at"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:178
+msgid ""
+"Specifies the destination where visitors who want to reject the message "
+"should be forwarded."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:182
+msgid "Do not set a cookie on forwarding:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:187
+msgid ""
+"If active, the visitor refuses and returns to the page, the notice will "
+"reappear."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:191 public/class-sp-dsgvo-public.php:183
+msgid "Read more"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:213
+msgid "zB.: Erfahre mehr"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:214
+msgid "The text of the option to obtain more information"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:218
+msgid "Link destination to read on:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:231
+msgid ""
+"Specifies the destination to where visitors will find more information about "
+"cookies."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:237
+msgid "Options for displaying the cookie notice."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:241
+msgid "Position:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:245
+msgid "On top"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:247
+msgid "Bottom"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:249
+msgid "Specifies the location where the cookie notice should be displayed."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:253
+msgid "Animation"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:258
+msgid "None"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:260
+msgid "fade"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:262
+msgid "hide"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:264
+msgid "Animation when accepting the cookie message."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:276 admin/tabs/cookie-notice/page.php:278
+msgid "Color adjustment"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:278
+msgid "In der Blog oder Premium Edition möglich"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:279
+msgid "Click here to get a license"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:284
+msgid "Background:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:293
+msgid "Text:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:301
+msgid "Buttons"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:302
+msgid "Background"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:307
+msgid "Font:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:314
+msgid "CSS Classes"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:315
+msgid ""
+"The colors listed under \"Color Changes“ must be overwritten with !Important."
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:318
+msgid "Cookie notice:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:334
+msgid "Buttons:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:342
+msgid "Further display options"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:345
+msgid "Font size"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:352 admin/tabs/cookie-notice/page.php:375
+#: admin/tabs/services/page.php:62 admin/tabs/services/page.php:107
+#: admin/tabs/services/page.php:146
+msgid "Default"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:368
+msgid "Height of cookie notice"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:390
+msgid "Show icon:"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:399
+msgid "Use overlay"
+msgstr ""
+
+#: admin/tabs/cookie-notice/page.php:405
+msgid ""
+"Displays a gray background and prevents the visitor from interacting with "
+"the site before making a choice."
+msgstr ""
+
+#: admin/tabs/gravity-forms/class-sp-dsgvo-gravity-forms-tab.php:10
+#: admin/tabs/gravity-forms/page.php:4
+msgid "Gravity Forms"
+msgstr ""
+
+#: admin/tabs/gravity-forms/page.php:6
+msgid ""
+"With these settings the saving behavior of Gravity Forms can be configured."
+msgstr ""
+
+#: admin/tabs/gravity-forms/page.php:13
+msgid "Do not save form data in the database"
+msgstr ""
+
+#: admin/tabs/gravity-forms/page.php:17
+msgid ""
+"If activated, no data will be stored, but only sent by e-mail. (Note: This "
+"option overrides form-specific settings).)."
+msgstr ""
+
+#: admin/tabs/gravity-forms/page.php:20
+msgid "Do not save IP address and user agent in database"
+msgstr ""
+
+#: admin/tabs/gravity-forms/page.php:24
+msgid ""
+"By default, if this checkbox is checked, this will be prevented from saving "
+"the IP address and user agent of the sender."
+msgstr ""
+
+#: admin/tabs/gravity-forms/page.php:34
+msgid "Specific form settings"
+msgstr ""
+
+#: admin/tabs/gravity-forms/page.php:35
+msgid ""
+"For each Gravity Forms form, it can be subsequently defined for each field "
+"whether the data of the input field is stored in the database or not."
+msgstr ""
+
+#: admin/tabs/gravity-forms/page.php:46
+msgid "Nicht in der Datenbank speichern."
+msgstr ""
+
+#: admin/tabs/imprint/page.php:2
+msgid ""
+"With the shortcode <code>[imprint]</code> an inprint automatically gets "
+"generated. The data will be taken from general settings."
+msgstr ""
+
+#: admin/tabs/imprint/page.php:10
+msgid "Imprint Page"
+msgstr ""
+
+#: admin/tabs/imprint/page.php:14 admin/tabs/privacy-policy/page.php:15
+#: admin/tabs/services/page.php:17
+msgid "Page"
+msgstr ""
+
+#: admin/tabs/imprint/page.php:16 admin/tabs/privacy-policy/page.php:17
+#: admin/tabs/services/page.php:19
+#: admin/tabs/subject-access-request/page.php:53
+#: admin/tabs/super-unsubscribe/page.php:124
+msgid "Select"
+msgstr ""
+
+#: admin/tabs/imprint/page.php:26
+msgid "Create a page that uses the shortcode <code>[imprint]</code>."
+msgstr ""
+
+#: admin/tabs/imprint/page.php:26 admin/tabs/services/page.php:37
+#: admin/tabs/subject-access-request/page.php:68
+#: admin/tabs/super-unsubscribe/page.php:138
+msgid "Create page"
+msgstr ""
+
+#: admin/tabs/imprint/page.php:28
+msgid ""
+"Attention: The shortcode <code>[imprint]</code> was not found on the page "
+"you selected."
+msgstr ""
+
+#: admin/tabs/imprint/page.php:28 admin/tabs/imprint/page.php:30
+#: admin/tabs/privacy-policy/page.php:27 admin/tabs/privacy-policy/page.php:29
+#: admin/tabs/privacy-policy/page.php:31 admin/tabs/services/page.php:41
+#: admin/tabs/services/page.php:43
+#: admin/tabs/subject-access-request/page.php:73
+#: admin/tabs/subject-access-request/page.php:76
+#: admin/tabs/super-unsubscribe/page.php:143
+#: admin/tabs/super-unsubscribe/page.php:146
+msgid "Edit page"
+msgstr ""
+
+#: admin/tabs/imprint/page.php:40 admin/tabs/privacy-policy/page.php:47
+msgid ""
+"Note: In order to be able to reset or reload the text (eg: after changing "
+"the language), highlight the text, delete it and click save. Thus, the text "
+"is reloaded."
+msgstr ""
+
+#: admin/tabs/integrations/class-sp-dsgvo-integrations-tab.php:10
+#: admin/tabs/integrations/page.php:1
+msgid "Integrations"
+msgstr ""
+
+#: admin/tabs/integrations/page.php:14
+msgid "No integrations installed"
+msgstr ""
+
+#: admin/tabs/privacy-policy/class-sp-dsgvo-privacy-policy-tab.php:11
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:51
+msgid "Privacy Policy"
+msgstr ""
+
+#: admin/tabs/privacy-policy/page.php:3
+msgid ""
+"The shortcode <code>[privacy_policy]</code> generates a privacy page from "
+"the input made under General Settings."
+msgstr ""
+
+#: admin/tabs/privacy-policy/page.php:5
+msgid ""
+"Initially, this text is filled with a template. The text blocks in the "
+"square brackets ([]) are filled with the values ​​that you entered in the "
+"General Settings. You can customize the entire text to your requirements, as "
+"well as delete passages if they do not apply to them."
+msgstr ""
+
+#: admin/tabs/privacy-policy/page.php:27
+msgid "Create a page that uses the shortcode <code>[privacy_policy]</code>."
+msgstr ""
+
+#: admin/tabs/privacy-policy/page.php:29
+msgid ""
+"Attention: The shortcode <code>[privacy_policy]</code> was not found on the "
+"page you selected."
+msgstr ""
+
+#: admin/tabs/privacy-policy/page.php:36
+msgid "Show checkbox at WooCommerce checkout to confirm privacy policy"
+msgstr ""
+
+#: admin/tabs/services/class-sp-dsgvo-delete-service-action.php:22
+msgid "Third-party service deleted by"
+msgstr ""
+
+#: admin/tabs/services/class-sp-dsgvo-services-tab.php:10
+msgid "Privacy policy & Plugins"
+msgstr ""
+
+#: admin/tabs/services/page.php:1
+msgid "Privacy: Settings and 3rd party plugins"
+msgstr ""
+
+#: admin/tabs/services/page.php:2
+msgid ""
+"All 3rd Party Plugins (Google Analytics, Facebook Pixel, ..) can be listed "
+"here to give their users a selective opt-in / opt-out."
+msgstr ""
+
+#: admin/tabs/services/page.php:3
+msgid ""
+"With the shortcode <code>[display_services]</code> these services can then "
+"be displayed to the user."
+msgstr ""
+
+#: admin/tabs/services/page.php:12
+msgid "Datenschutz Seite für ihre Benutzer"
+msgstr ""
+
+#: admin/tabs/services/page.php:29
+msgid ""
+"Specifies the page where users have the option to customize their privacy "
+"settings (selective opt-in / opt-out)."
+msgstr ""
+
+#: admin/tabs/services/page.php:35
+msgid ""
+"Create a page that uses the shortcode <code>[user_privacy_settings_form]</"
+"code>."
+msgstr ""
+
+#: admin/tabs/services/page.php:41
+msgid ""
+"Attention: The shortcode <code>[user_privacy_settings_form]</code> was not "
+"found on the selected page. The form will not be displayed."
+msgstr ""
+
+#: admin/tabs/services/page.php:44
+msgid ""
+"The shortcode <code>[user_privacy_settings_form]</code> allows the user to "
+"activate or deactivate services on the selected page."
+msgstr ""
+
+#: admin/tabs/services/page.php:58 admin/tabs/services/page.php:103
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:41
+msgid "Slug"
+msgstr ""
+
+#: admin/tabs/services/page.php:59 admin/tabs/services/page.php:104
+#: admin/tabs/services/page.php:125
+#: includes/class-sp-dsgvo-data-collecter.php:66
+#: includes/class-sp-dsgvo-data-collecter.php:71
+#: includes/class-sp-dsgvo-data-collecter.php:78
+#: includes/class-sp-dsgvo-data-collecter.php:129
+#: includes/class-sp-dsgvo-data-collecter.php:143
+#: includes/class-sp-dsgvo-data-collecter.php:166
+msgid "Name"
+msgstr ""
+
+#: admin/tabs/services/page.php:60 admin/tabs/services/page.php:105
+#: admin/tabs/services/page.php:132 templates/de_DE/emails/feedback.php:10
+#: templates/en_EN/emails/feedback.php:10
+#: templates/en_US/emails/feedback.php:10
+msgid "Reason"
+msgstr ""
+
+#: admin/tabs/services/page.php:61 admin/tabs/services/page.php:106
+#: admin/tabs/services/page.php:139
+msgid "Terms Url"
+msgstr ""
+
+#: admin/tabs/services/page.php:63 admin/tabs/services/page.php:93
+#: admin/tabs/services/page.php:108 admin/tabs/super-unsubscribe/page.php:71
+#: admin/tabs/super-unsubscribe/page.php:84
+#: admin/tabs/super-unsubscribe/page.php:97
+#: admin/tabs/super-unsubscribe/page.php:110
+msgid "Delete"
+msgstr ""
+
+#: admin/tabs/services/page.php:84
+msgid "Terms & Conditions link"
+msgstr ""
+
+#: admin/tabs/services/page.php:88 admin/tabs/services/page.php:149
+#: public/shortcodes/privacy-settings-form.php:19
+msgid "Enabled"
+msgstr ""
+
+#: admin/tabs/services/page.php:89 admin/tabs/services/page.php:150
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:51
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:65
+msgid "Disabled"
+msgstr ""
+
+#: admin/tabs/services/page.php:121 admin/tabs/services/page.php:158
+msgid "Add service"
+msgstr ""
+
+#: admin/tabs/services/page.php:128
+msgid "Service name"
+msgstr ""
+
+#: admin/tabs/services/page.php:135
+#: public/shortcodes/privacy-settings-form.php:17
+msgid "Reason for use"
+msgstr ""
+
+#: admin/tabs/services/page.php:142
+msgid "The URL pointing to the terms of the service"
+msgstr ""
+
+#: admin/tabs/services/page.php:152
+msgid "Indicates whether the service should be enabled by default or not."
+msgstr ""
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:18
+msgid "Plugin installed"
+msgstr ""
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:36
+#: admin/tabs/subject-access-request/class-sp-dsgvo-subject-access-request-tab.php:10
+#: templates/de_DE/emails/subject-access-request.php:21
+#: templates/en_EN/emails/subject-access-request.php:21
+#: templates/en_US/emails/subject-access-request.php:21
+msgid "Subject Access Request"
+msgstr ""
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:41
+msgid "User privacy settings"
+msgstr ""
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:46
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:67
+msgid "Terms & Conditions"
+msgstr ""
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:56
+#: templates/de_DE/emails/super-unsubscribe.php:20
+#: templates/en_EN/emails/super-unsubscribe.php:20
+#: templates/en_US/emails/super-unsubscribe.php:20
+msgid "Delete Request"
+msgstr ""
+
+#: admin/tabs/setup/class-sp-dsgvo-create-page-action.php:72
+msgid "Opt-out"
+msgstr ""
+
+#: admin/tabs/setup/class-sp-dsgvo-setup-tab.php:9 admin/tabs/setup/page.php:1
+msgid "Setup"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:1
+msgid "Subject Access Requests"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:2
+msgid ""
+"This feature allows users to request a digest of all data stored by you. "
+"<br> All data in your database is checked for confidential data and sent to "
+"the User by email."
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:12
+#: admin/tabs/super-unsubscribe/page.php:13
+msgid "Automatic processing"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:17
+#: admin/tabs/super-unsubscribe/page.php:50
+msgid "none"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:18
+msgid "day"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:19
+#: admin/tabs/subject-access-request/page.php:20
+msgid "days"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:21
+msgid "weeks"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:24
+msgid ""
+"Requests will be automatically processed after the set time and sent to the "
+"user."
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:28
+#: admin/tabs/super-unsubscribe/page.php:26
+msgid "Email for new application:"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:34
+#: admin/tabs/super-unsubscribe/page.php:32
+msgid "Send a notification for a new application to the admin email address."
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:38
+msgid "GDPR consent text:"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:43
+msgid "The text to be displayed in the GDPR checkbox for data storage."
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:48
+msgid "Request page:"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:62
+msgid ""
+"Specifies the page on which users have the option to request their data "
+"extract."
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:66
+msgid "Create a page using the shortcode <code>[sar_form]</code>."
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:72
+msgid ""
+"Attention: The shortcode <code>[sar_form]</code> of the selected page was "
+"not found. Thus, the user has no opportunity to request the data."
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:97
+#: admin/tabs/subject-access-request/page.php:146
+#: admin/tabs/super-unsubscribe/page.php:197
+#: admin/tabs/super-unsubscribe/page.php:264
+msgid "ID"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:99
+#: admin/tabs/subject-access-request/page.php:147
+#: admin/tabs/subject-access-request/page.php:175
+#: admin/tabs/super-unsubscribe/page.php:199
+#: admin/tabs/super-unsubscribe/page.php:265
+#: admin/tabs/super-unsubscribe/page.php:295
+#: includes/class-sp-dsgvo-data-collecter.php:79
+#: includes/class-sp-dsgvo-data-collecter.php:130
+#: includes/class-sp-dsgvo-data-collecter.php:167
+#: includes/class-sp-dsgvo-data-collecter.php:370
+#: public/shortcodes/subject-access-request/subject-access-request.php:38
+#: public/shortcodes/subject-access-request/subject-access-request.php:39
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:42
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:43
+msgid "Email"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:101
+#: admin/tabs/subject-access-request/page.php:148
+#: admin/tabs/subject-access-request/page.php:180
+#: admin/tabs/super-unsubscribe/page.php:201
+#: admin/tabs/super-unsubscribe/page.php:266
+#: admin/tabs/super-unsubscribe/page.php:300
+#: public/shortcodes/subject-access-request/subject-access-request.php:26
+#: public/shortcodes/subject-access-request/subject-access-request.php:27
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:30
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:31
+msgid "First name"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:103
+#: admin/tabs/subject-access-request/page.php:149
+#: admin/tabs/subject-access-request/page.php:185
+#: admin/tabs/super-unsubscribe/page.php:203
+#: admin/tabs/super-unsubscribe/page.php:267
+#: admin/tabs/super-unsubscribe/page.php:305
+#: public/shortcodes/subject-access-request/subject-access-request.php:31
+#: public/shortcodes/subject-access-request/subject-access-request.php:32
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:35
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:36
+msgid "Last name"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:105
+#: admin/tabs/subject-access-request/page.php:150
+#: admin/tabs/subject-access-request/page.php:190
+#: admin/tabs/super-unsubscribe/page.php:205
+#: admin/tabs/super-unsubscribe/page.php:268
+#: admin/tabs/super-unsubscribe/page.php:310
+msgid "GDPR approval"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:107
+#: admin/tabs/subject-access-request/page.php:131
+#: admin/tabs/subject-access-request/page.php:151
+msgid "Run"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:137
+msgid "No open requests"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:159
+msgid "Run all"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:171
+#: admin/tabs/super-unsubscribe/page.php:290
+msgid "Add entry"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:195
+msgid "Run now"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:200
+msgid "Show email"
+msgstr ""
+
+#: admin/tabs/subject-access-request/page.php:207
+#: admin/tabs/super-unsubscribe/page.php:322
+msgid "Add"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/class-sp-dsgvo-super-unsubscribe-tab.php:9
+msgid "Delete request"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:1
+msgid "Delete Requests"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:2
+msgid ""
+"Here you will find all deletion requests that users have made on their site. "
+"With a click on \"delete now \" you delete all stored data of the user on "
+"their side including Plugins."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:17
+msgid "Immediately on request"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:23
+msgid "If enabled, delete requests are performed immediately."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:36
+msgid "GDPR confirmation text:"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:41
+msgid "The text to be displayed in the GDPR checkbox for data deletion."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:45
+msgid "After period"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:51
+msgid "month"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:52
+#: admin/tabs/super-unsubscribe/page.php:53
+msgid "months"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:54
+msgid "year"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:55
+#: admin/tabs/super-unsubscribe/page.php:56
+msgid "years"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:59
+msgid ""
+"Data is automatically deleted after the set time. Ensures the maximum "
+"retention time."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:64
+msgid "WooCommerce Data"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:69
+#: admin/tabs/super-unsubscribe/page.php:82
+#: admin/tabs/super-unsubscribe/page.php:95
+#: admin/tabs/super-unsubscribe/page.php:108
+msgid "No action"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:70
+#: admin/tabs/super-unsubscribe/page.php:83
+#: admin/tabs/super-unsubscribe/page.php:96
+#: admin/tabs/super-unsubscribe/page.php:109
+msgid "Pseudonymise"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:74
+msgid "Specifies what should happen to personal data of orders."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:77
+msgid "bbPress Data"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:87
+msgid "Specifies what should happen with forum entries."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:90
+msgid "buddyPress Data"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:100
+msgid "Specifies what should happen with PNs and extended profile fields."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:103
+msgid "CF7/Flamingo Data"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:113
+msgid "Specifies what to do with contact entries and messages."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:118
+msgid "Page for deletion request:"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:136
+msgid "Create a page using the shortcode <code>[unsubscribe_form]</code>."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:142
+msgid ""
+"Attention: The shortcode <code>[unsubscribe_form]</code> that should be on "
+"the selected page was not found. Thus, the user has no opportunity to ask a "
+"deletion request."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:178
+msgid "Pending"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:185
+msgid "Done"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:207
+#: admin/tabs/super-unsubscribe/page.php:269
+msgid "State"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:209
+#: admin/tabs/super-unsubscribe/page.php:238
+#: admin/tabs/super-unsubscribe/page.php:241
+#: admin/tabs/super-unsubscribe/page.php:270
+msgid "Delete now"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:251
+msgid "No requests done"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:253
+msgid "No pending requests"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:278
+msgid "Delete all"
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:291
+msgid ""
+"ATTENTION: Executing this action deletes the account (except administrators)."
+msgstr ""
+
+#: admin/tabs/super-unsubscribe/page.php:315
+msgid "Run without user confirmation"
+msgstr ""
+
+#: includes/class-sp-dsgvo-ajax-action.php:93
+msgid "Public property $action not provied"
+msgstr ""
+
+#: includes/class-sp-dsgvo-cron.php:66
+msgid "All"
+msgstr ""
+
+#: includes/class-sp-dsgvo-cron.php:66
+msgid "Minutes"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:77
+msgid "Login"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:80
+#: includes/class-sp-dsgvo-data-collecter.php:82
+#: includes/class-sp-dsgvo-data-collecter.php:131
+#: includes/class-sp-dsgvo-data-collecter.php:144
+#: includes/class-sp-dsgvo-data-collecter.php:168
+#: includes/class-sp-dsgvo-data-collecter.php:393
+msgid "Url"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:81
+msgid "Display Name"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:105
+msgid "Advanced"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:132
+#: includes/class-sp-dsgvo-data-collecter.php:169
+msgid "IP Address"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:133
+#: includes/class-sp-dsgvo-data-collecter.php:170
+msgid "Comment"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:142
+msgid "User name"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:145
+msgid "Display name"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:376
+msgid "ZIP Code"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:383
+msgid "Phone number"
+msgstr ""
+
+#: includes/class-sp-dsgvo-data-collecter.php:401
+msgid "Address"
+msgstr ""
+
+#: includes/class-sp-dsgvo-mail.php:198 includes/class-sp-dsgvo-mail.php:205
+msgid "Attachment not found at"
+msgstr ""
+
+#: includes/class-sp-dsgvo-mail.php:223 includes/class-sp-dsgvo-mail.php:265
+msgid "Template file not found"
+msgstr ""
+
+#: includes/class-sp-dsgvo-mail.php:377
+msgid "You must set at least 1 recipient"
+msgstr ""
+
+#: includes/class-sp-dsgvo-mail.php:381
+msgid "You must set a template"
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:43 public/class-sp-dsgvo-public.php:323
+msgid "I confirm"
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:44 public/class-sp-dsgvo-public.php:321
+msgid "The confirmation to GDPR is mandatory."
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:45 public/class-sp-dsgvo-public.php:322
+msgid ""
+"This form stores your name, email address and content so that we can "
+"evaluate the comments on our site. For more information, visit our Privacy "
+"Policy page."
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:70
+#: includes/class-sp-dsgvo-settings.php:112
+#: public/shortcodes/subject-access-request/subject-access-request.php:46
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:50
+msgid ""
+"I agree to the storage of the data for processing within the meaning of the "
+"GDPR."
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:81
+#: includes/class-sp-dsgvo-settings.php:236
+msgid "We use cookies to analyze visitor behavior."
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:88
+#: includes/class-sp-dsgvo-settings.php:243
+msgid "Google Analytics is used to analyze website traffic."
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:95
+#: includes/class-sp-dsgvo-settings.php:250
+msgid "Facebook Pixel is used to analyze visitor behavior."
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:119
+msgid ""
+"This website uses cookies. By clicking 'accept' you are providing consent to "
+"us using cookies on this browser."
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:127
+#: public/class-sp-dsgvo-public.php:159
+msgid ""
+"We use cookies to give you the best user experience. If you continue to use "
+"this site, we assume that you agree."
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:129
+msgid "OK"
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:132
+msgid "Deny"
+msgstr ""
+
+#: includes/class-sp-dsgvo-settings.php:135
+msgid "More information"
+msgstr ""
+
+#: includes/cron/do-delete-data-request.php:15
+msgid "DoDSGVODeleteDataRequest with days:"
+msgstr ""
+
+#: includes/cron/do-delete-data-request.php:15
+msgid "and intval:"
+msgstr ""
+
+#: includes/cron/do-delete-data-request.php:20
+msgid "doing sar"
+msgstr ""
+
+#: includes/cron/do-delete-data-request.php:20
+msgid "with intval"
+msgstr ""
+
+#: includes/cron/do-delete-data-request.php:27
+msgid "sar"
+msgstr ""
+
+#: includes/cron/do-delete-data-request.php:27
+msgid "has not the date to process"
+msgstr ""
+
+#: includes/html/index-footer.php:6
+msgid "Downloaded from"
+msgstr ""
+
+#: includes/html/index-footer.php:6
+msgid "on"
+msgstr ""
+
+#: includes/html/index-header.php:5 includes/html/index-header.php:412
+msgid "All data relating to"
+msgstr ""
+
+#: includes/html/index-header.php:413
+msgid "Objects"
+msgstr ""
+
+#: includes/html/index-header.php:413
+msgid "Generated on"
+msgstr ""
+
+#: includes/html/index-header.php:426
+msgid "Type"
+msgstr ""
+
+#: includes/html/index-header.php:427
+msgid "Data"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Extension.php:64
+msgid "An update is available:"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Extension.php:67
+msgid "No updates found."
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Extension.php:77
+msgid "Access denied"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:38
+msgid "Configuration"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:42
+msgid "DB option"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:45
+msgid "Metadata URL"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:49
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:51
+msgid "Automatic checks"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:49
+msgid "Every"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:49
+msgid "hours"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:57
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:65
+msgid "Throttling"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:59
+#, php-format
+msgid ""
+"Enabled. If an update is already available, check for updates every %1$d "
+"hours instead of every %2$d hours."
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:83
+msgid "Status"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:89
+msgid "Check Now"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:98
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:100
+msgid "Last check"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:104
+msgid "Next automatic check"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:107
+msgid "Checked version"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:108
+msgid "Cached update"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:110
+msgid "Update checker class"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:117
+msgid "An Update Is Available"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:127
+msgid "No updates currently available"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/Panel.php:137
+msgid "Never"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/PluginExtension.php:24
+msgid "Successfully retrieved plugin info from the metadata URL:"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/PluginExtension.php:27
+msgid "Failed to retrieve plugin info from the metadata URL."
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/PluginPanel.php:20
+msgid "Request Info"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/DebugBar/ThemePanel.php:12
+msgid "Theme directory"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/Plugin/Info.php:74
+msgid ""
+"The plugin metadata file does not contain the required 'name' and/or "
+"'version' keys."
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/Plugin/UpdateChecker.php:47
+#, php-format
+msgid "Plugin slug \"%s\" is already in use by %s. Slugs must be unique."
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/Plugin/UpdateChecker.php:189
+#, php-format
+msgid ""
+"Can't to read the Version header for '%s'. The filename is incorrect or is "
+"not a plugin."
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/Plugin/UpdateChecker.php:208
+#, php-format
+msgid "Can't to read the plugin header for '%s'. The file does not exist."
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/Plugin/UpdateChecker.php:392
+msgid "Check for updates"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/Plugin/UpdateChecker.php:429
+msgid "View details"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/Plugin/UpdateChecker.php:452
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/Plugin/UpdateChecker.php:518
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/Theme/Update.php:68
+#, php-format
+msgid "The theme metadata is missing the required \"%s\" key."
+msgstr ""
+
+#: includes/lib/plugin-update-checker/Puc/v4p3/Vcs/PluginUpdateChecker.php:86
+msgid "There is no changelog available."
+msgstr ""
+
+#: includes/models/subject-access-request.php:69
+#: includes/models/subject-access-request.php:73
+msgid "Subject access request"
+msgstr ""
+
+#: includes/models/subject-access-request.php:181
+#: includes/models/subject-access-request.php:182
+#: includes/models/subject-access-request.php:184
+msgid "All data of"
+msgstr ""
+
+#: includes/models/subject-access-request.php:184
+msgid "Date"
+msgstr ""
+
+#: includes/models/subject-access-request.php:184
+msgid "Source"
+msgstr ""
+
+#: includes/models/unsubscriber.php:100
+msgid "Confirmation of delete request"
+msgstr ""
+
+#: public/actions/user-permissions.php:24
+msgid "updated their user permissions"
+msgstr ""
+
+#: public/class-sp-dsgvo-public.php:165
+msgid "Ok"
+msgstr ""
+
+#: public/class-sp-dsgvo-public.php:387
+msgid "Privacy Policy: "
+msgstr ""
+
+#: public/class-sp-dsgvo-public.php:391
+msgid "I have read and accepted the PrivacyPolicyPlaceholder."
+msgstr ""
+
+#: public/class-sp-dsgvo-public.php:405
+msgid "I have read and accepted the Privacy Policy."
+msgstr ""
+
+#: public/class-sp-dsgvo-public.php:424
+msgid "Consent to the privacy policy is mandatory."
+msgstr ""
+
+#: public/class-sp-dsgvo-public.php:430
+msgid "Privacy Policy accepted"
+msgstr ""
+
+#: public/shortcodes/decline-permission.php:5
+msgid "Decline Terms & Conditions"
+msgstr ""
+
+#: public/shortcodes/display-services.php:13
+msgid "Open Terms of service"
+msgstr ""
+
+#: public/shortcodes/explicit-permission.php:6
+msgid "Accepted"
+msgstr ""
+
+#: public/shortcodes/explicit-permission.php:7
+msgid "Declined"
+msgstr ""
+
+#: public/shortcodes/imprint.php:10
+msgid "imprint_text"
+msgstr ""
+"[company_name]\n"
+"Owner: [company_owner]\n"
+"[adress_street]\n"
+"[adress_zip_location]\n"
+"\n"
+"Management: [company_law_person]\n"
+"Stockholder: [company_management]\n"
+"\n"
+"Telephone number: [comm_phone]\n"
+"E-Mail address: [comm_email]\n"
+"\n"
+"Register Court & Register Number: [company_register_court], "
+"[company_register_nr]\n"
+"\n"
+"Sales tax identification number: [company_uid]\n"
+"\n"
+"Responsible for content: [content_responsible]\n"
+"\n"
+"European Commission Online Dispute Resolution (OS) platform for consumers: "
+"<a href\"https://ec.europa.eu/consumers/odr/\" target=\"_blank\">https://ec."
+"europa.eu/consumers/odr/</a>. We are not willing and obliged to participate "
+"in a dispute settlement procedure before a consumer arbitration board."
+
+#: public/shortcodes/privacy-settings-form.php:16
+msgid "Service"
+msgstr ""
+
+#: public/shortcodes/privacy-settings-form.php:18
+#: public/shortcodes/privacy-settings-form.php:26
+msgid "Terms"
+msgstr ""
+
+#: public/shortcodes/privacy-settings-form.php:30
+msgid "Yes"
+msgstr ""
+
+#: public/shortcodes/privacy-settings-form.php:33
+msgid "No"
+msgstr ""
+
+#: public/shortcodes/privacy-settings-form.php:42
+msgid ""
+"Since you are not logged in we save these settings in a cookie. These "
+"settings are thus only active on this PC."
+msgstr ""
+
+#: public/shortcodes/privacy-settings-form.php:46
+msgid "Save"
+msgstr ""
+
+#: public/shortcodes/subject-access-request/download-subject-access-request.php:11
+#: public/shortcodes/super-unsubscribe/unsubscribe-confirm-action.php:10
+msgid "No token provided."
+msgstr ""
+
+#: public/shortcodes/subject-access-request/download-subject-access-request.php:19
+msgid "Bad token provided."
+msgstr ""
+
+#: public/shortcodes/subject-access-request/download-subject-access-request.php:71
+msgid "Error"
+msgstr ""
+
+#: public/shortcodes/subject-access-request/subject-access-request-action.php:9
+msgid "Please enter an email address"
+msgstr ""
+
+#: public/shortcodes/subject-access-request/subject-access-request-action.php:13
+#: public/shortcodes/super-unsubscribe/unsubscribe-form-action.php:13
+msgid "The GDPR approval is mandatory."
+msgstr ""
+
+#: public/shortcodes/subject-access-request/subject-access-request-action.php:28
+msgid "New subject access request"
+msgstr ""
+
+#: public/shortcodes/subject-access-request/subject-access-request-action.php:29
+#: public/shortcodes/super-unsubscribe/unsubscribe-form-action.php:31
+msgid "A new subject access request from "
+msgstr ""
+
+#: public/shortcodes/subject-access-request/subject-access-request.php:18
+msgid "Your request has been created"
+msgstr ""
+
+#: public/shortcodes/subject-access-request/subject-access-request.php:18
+msgid ""
+"You will receive an email from us with a current extract of your data stored "
+"with us."
+msgstr ""
+
+#: public/shortcodes/subject-access-request/subject-access-request.php:51
+msgid "Create request"
+msgstr ""
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-confirm-action.php:18
+msgid "Bad token provided"
+msgstr ""
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-form-action.php:9
+msgid "Please enter an email address."
+msgstr ""
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-form-action.php:30
+msgid "New delete request"
+msgstr ""
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:19
+msgid "Request sent successfully. You will receive an email in a few minutes."
+msgstr ""
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:23
+msgid "Request successfully completed. Your data has been completely deleted."
+msgstr ""
+
+#: public/shortcodes/super-unsubscribe/unsubscribe-form.php:55
+msgid "Create delete request"
+msgstr ""
+
+#: templates/de_DE/emails/feedback.php:1 templates/en_EN/emails/feedback.php:1
+#: templates/en_US/emails/feedback.php:1
+msgid "WP DSGVO Tools Feedback"
+msgstr ""
+
+#: templates/de_DE/emails/feedback.php:4 templates/en_EN/emails/feedback.php:4
+#: templates/en_US/emails/feedback.php:4
+msgid "From"
+msgstr ""
+
+#: templates/de_DE/emails/feedback.php:15
+#: templates/en_EN/emails/feedback.php:15
+#: templates/en_US/emails/feedback.php:15
+msgid "Message"
+msgstr ""
+
+#: templates/de_DE/emails/subject-access-request.php:46
+#: templates/en_EN/emails/subject-access-request.php:46
+#: templates/en_US/emails/subject-access-request.php:46
+msgid ""
+"We have received your subject access request. A PDF document containing all "
+"the data we have stored about you is attached.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Amount of personal data found"
+msgstr ""
+
+#: templates/de_DE/emails/subject-access-request.php:49
+#: templates/en_EN/emails/subject-access-request.php:49
+#: templates/en_US/emails/subject-access-request.php:49
+msgid "Here you see a summary about this data"
+msgstr ""
+
+#: templates/de_DE/emails/subject-access-request.php:52
+#: templates/en_EN/emails/subject-access-request.php:52
+#: templates/en_US/emails/subject-access-request.php:52
+msgid "Download your archive"
+msgstr ""
+
+#: templates/de_DE/emails/subject-access-request.php:54
+#: templates/en_EN/emails/subject-access-request.php:54
+#: templates/en_US/emails/subject-access-request.php:54
+msgid ""
+"Following this link you can download a PDF and a JSON file dump of your data."
+msgstr ""
+
+#: templates/de_DE/emails/subject-access-request.php:56
+#: templates/en_EN/emails/subject-access-request.php:56
+#: templates/en_US/emails/subject-access-request.php:56
+msgid "Download archive"
+msgstr ""
+
+#: templates/de_DE/emails/subject-access-request.php:94
+#: templates/de_DE/emails/super-unsubscribe.php:84
+#: templates/en_EN/emails/subject-access-request.php:94
+#: templates/en_EN/emails/super-unsubscribe.php:84
+#: templates/en_US/emails/subject-access-request.php:94
+#: templates/en_US/emails/super-unsubscribe.php:84
+msgid "Sent from"
+msgstr ""
+
+#: templates/de_DE/emails/subject-access-request.php:98
+#: templates/de_DE/emails/super-unsubscribe.php:88
+#: templates/en_EN/emails/subject-access-request.php:98
+#: templates/en_EN/emails/super-unsubscribe.php:88
+#: templates/en_US/emails/subject-access-request.php:98
+#: templates/en_US/emails/super-unsubscribe.php:88
+msgid "Contact"
+msgstr ""
+
+#: templates/de_DE/emails/super-unsubscribe.php:45
+#: templates/en_EN/emails/super-unsubscribe.php:45
+#: templates/en_US/emails/super-unsubscribe.php:45
+msgid "We have received your delete request."
+msgstr ""
+
+#: templates/de_DE/emails/super-unsubscribe.php:46
+#: templates/en_EN/emails/super-unsubscribe.php:46
+#: templates/en_US/emails/super-unsubscribe.php:46
+msgid ""
+"If you confirm the following link, all your data stored at\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t{{website}} gets deleted."
+msgstr ""
+
+#: templates/de_DE/emails/super-unsubscribe.php:51
+#: templates/en_EN/emails/super-unsubscribe.php:51
+#: templates/en_US/emails/super-unsubscribe.php:51
+msgid "Confirm Delete"
+msgstr ""
+
+#: templates/de_DE/emails/super-unsubscribe.php:53
+#: templates/en_EN/emails/super-unsubscribe.php:53
+#: templates/en_US/emails/super-unsubscribe.php:53
+msgid "If you don't want do delete your data just ignore this email."
+msgstr ""

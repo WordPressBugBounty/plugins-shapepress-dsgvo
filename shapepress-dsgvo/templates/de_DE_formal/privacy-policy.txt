@@ -1,0 +1,153 @@
+<h1>Datenschutzerkl&auml;rung und Einwilligungen</h1>
+  
+Inhaltsverzeichnis
+1. Zielsetzung und verantwortliche Stelle
+2. Grunds&auml;tzliche Angaben zur Datenverarbeitung
+3. Verarbeitung personenbezogener Daten
+4. Erhebung von Zugriffsdaten
+5. Cookies &amp; Reichweitenmessung
+6. Google Analytics
+7. Google-Re/Marketing-Services
+8. Facebook Social Plugins
+9. Facebook Remarketing
+10. Newsletter
+11. Einbindung von Diensten und Inhalten Dritter
+12. Rechte der Nutzer und L&ouml;schung
+13. &Auml;nderungen der Datenschutzerkl&auml;rung
+
+<h2>1. Zielsetzung und verantwortliche Stelle</h2>
+
+Diese Datenschutzerkl&auml;rung kl&auml;rt &uuml;ber die Art, den Umfang und Zweck der Verarbeitung (u.a. Erhebung, Verarbeitung und Nutzung sowie Einholung von Einwilligungen) von personenbezogenen Daten innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte (nachfolgend gemeinsam bezeichnet als "Onlineangebot" oder "Website") auf. Die Datenschutzerkl&auml;rung gilt unabh&auml;ngig von den verwendeten Domains, Systemen, Plattformen und Ger&auml;ten (z.B. Desktop oder Mobile) auf denen das Onlineangebot ausgef&uuml;hrt wird.
+
+Anbieter des Onlineangebotes und die datenschutzrechtlich verantwortliche Stelle ist [company_name], Inhaber: [company_owner], [adress_street], [adress_zip_location] (nachfolgend bezeichnet als "AnbieterIn", "wir" oder "uns"). F&uuml;r die Kontaktm&ouml;glichkeiten verweisen wir auf unser Impressum
+
+Der Begriff "Nutzer" umfasst alle Kunden und Besucher unseres Onlineangebotes. Die verwendeten Begrifflichkeiten, wie z.B. "Nutzer" sind geschlechtsneutral zu verstehen.
+
+<h2>2. Grunds&auml;tzliche Angaben zur Datenverarbeitung</h2>
+
+Wir verarbeiten personenbezogene Daten der Nutzer nur unter Einhaltung der einschl&auml;gigen Datenschutzbestimmungen entsprechend den Geboten der Datensparsamkeit- und Datenvermeidung. Das bedeutet die Daten der Nutzer werden nur beim Vorliegen einer gesetzlichen Erlaubnis, insbesondere wenn die Daten zur Erbringung unserer vertraglichen Leistungen sowie Online-Services erforderlich, bzw. gesetzlich vorgeschrieben sind oder beim Vorliegen einer Einwilligung verarbeitet.
+
+Wir treffen organisatorische, vertragliche und technische Sicherheitsma&szlig;nahmen entsprechend dem Stand der Technik, um sicher zu stellen, dass die Vorschriften der Datenschutzgesetze eingehalten werden und um damit die durch uns verarbeiteten Daten gegen zuf&auml;llige oder vors&auml;tzliche Manipulationen, Verlust, Zerst&ouml;rung oder gegen den Zugriff unberechtigter Personen zu sch&uuml;tzen.
+
+Sofern im Rahmen dieser Datenschutzerkl&auml;rung Inhalte, Werkzeuge oder sonstige Mittel von anderen Anbietern (nachfolgend gemeinsam bezeichnet als "Dritt-Anbieter") eingesetzt werden und deren genannter Sitz im Ausland ist, ist davon auszugehen, dass ein Datentransfer in die Sitzstaaten der Dritt-Anbieter stattfindet. Die &Uuml;bermittlung von Daten in Drittstaaten erfolgt entweder auf Grundlage einer gesetzlichen Erlaubnis, einer Einwilligung der Nutzer oder spezieller Vertragsklauseln, die eine gesetzlich vorausgesetzte Sicherheit der Daten gew&auml;hrleisten.
+
+<h2>3. Verarbeitung personenbezogener Daten</h2>
+
+Die personenbezogenen Daten werden, neben den ausdr&uuml;cklich in dieser Datenschutzerkl&auml;rung genannten Verwendung, f&uuml;r die folgenden Zwecke auf Grundlage gesetzlicher Erlaubnisse oder Einwilligungen der Nutzer verarbeitet:
+- Die Zurverf&uuml;gungstellung, Ausf&uuml;hrung, Pflege, Optimierung und Sicherung unserer Dienste-, Service- und Nutzerleistungen;
+- Die Gew&auml;hrleistung eines effektiven Kundendienstes und technischen Supports.
+
+Wir &uuml;bermitteln die Daten der Nutzer an Dritte nur, wenn dies f&uuml;r Abrechnungszwecke notwendig ist (z.B. an einen Zahlungsdienstleister) oder f&uuml;r andere Zwecke, wenn diese notwendig sind, um unsere vertraglichen Verpflichtungen gegen&uuml;ber den Nutzern zu erf&uuml;llen (z.B. Adressmitteilung an Lieferanten).
+
+Bei der Kontaktaufnahme mit uns (per Kontaktformular oder Email) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie f&uuml;r den Fall, dass Anschlussfragen entstehen, gespeichert.
+Personenbezogene Daten werden gel&ouml;scht, sofern sie ihren Verwendungszweck erf&uuml;llt haben und der L&ouml;schung keine Aufbewahrungspflichten entgegenstehen.
+
+<h2>4. Erhebung von Zugriffsdaten</h2>
+
+Wir erheben Daten &uuml;ber jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (so genannte Serverlogfiles). Zu den Zugriffsdaten geh&ouml;ren Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, &uuml;bertragene Datenmenge, Meldung &uuml;ber erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.
+
+Wir verwenden die Protokolldaten ohne Zuordnung zur Person des Nutzers oder sonstiger Profilerstellung entsprechend den gesetzlichen Bestimmungen nur f&uuml;r statistische Auswertungen zum Zweck des Betriebs, der Sicherheit und der Optimierung unseres Onlineangebotes. Wir behalten uns jedoch vor, die Protokolldaten nachtr&auml;glich zu &uuml;berpr&uuml;fen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.
+
+<h2>5. Cookies &amp; Reichweitenmessung</h2>
+
+Cookies sind Informationen, die von unserem Webserver oder Webservern Dritter an die Web-Browser der Nutzer &uuml;bertragen und dort f&uuml;r einen sp&auml;teren Abruf gespeichert werden. &Uuml;ber den Einsatz von Cookies im Rahmen pseudonymer Reichweitenmessung werden die Nutzer im Rahmen dieser Datenschutzerkl&auml;rung informiert.
+
+Die Betrachtung dieses Onlineangebotes ist auch unter Ausschluss von Cookies m&ouml;glich. Falls die Nutzer nicht m&ouml;chten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies k&ouml;nnen in den Systemeinstellungen des Browsers gel&ouml;scht werden. Der Ausschluss von Cookies kann zu Funktionseinschr&auml;nkungen dieses Onlineangebotes f&uuml;hren.
+
+Es besteht die M&ouml;glichkeit, viele Online-Anzeigen-Cookies von Unternehmen &uuml;ber die US-amerikanische Seite <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a> oder die EU-Seite <a href="http://www.youronlinechoices.com/uk/your-ad-choices/" target="_blank">http://www.youronlinechoices.com/uk/your-ad-choices/</a> zu verwalten.
+
+<h2>6. Google Analytics</h2>
+
+Wir setzen Google Analytics, einen Webanalysedienst der Google Ireland Ltd. ("Google") ein. Google verwendet Cookies. Die durch das Cookie erzeugten Informationen &uuml;ber Benutzung des Onlineangebotes durch die Nutzer werden in der Regel an einen Server von Google in den USA &uuml;bertragen und dort gespeichert.
+
+Google wird diese Informationen in unserem Auftrag benutzen, um die Nutzung unseres Onlineangebotes durch die Nutzer auszuwerten, um Reports &uuml;ber die Aktivit&auml;ten innerhalb dieses Onlineangebotes zusammenzustellen und um weitere mit der Nutzung dieses Onlineangebotes und der Internetnutzung verbundene Dienstleistungen uns gegen&uuml;ber zu erbringen. Dabei k&ouml;nnen aus den verarbeiteten Daten pseudonyme Nutzungsprofile der Nutzer erstellt werden.
+
+Wir setzen Google Analytics nur mit aktivierter IP-Anonymisierung ein. Das bedeutet, die IP-Adresse der Nutzer wird von Google innerhalb von Mitgliedstaaten der Europ&auml;ischen Union oder in anderen Vertragsstaaten des Abkommens &uuml;ber den Europ&auml;ischen Wirtschaftsraum gek&uuml;rzt. Nur in Ausnahmef&auml;llen wird die volle IP-Adresse an einen Server von Google in den USA &uuml;bertragen und dort gek&uuml;rzt.
+
+Die von dem Browser des Nutzers &uuml;bermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengef&uuml;hrt. Die Nutzer k&ouml;nnen die Speicherung der Cookies durch eine entsprechende Einstellung ihrer Browser-Software verhindern; die Nutzer k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung des Onlineangebotes bezogenen Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verf&uuml;gbare Browser-Plugin herunterladen und installieren: <a href="https://tools.google.com/dlpage/gaoptout?hl=de" target="_blank">https://tools.google.com/dlpage/gaoptout?hl=de</a>.
+
+Weitere Informationen zur Datennutzung zu Werbezwecken durch Google, Einstellungs- und Widerspruchsm&ouml;glichkeiten erfahren Sie auf den Webseiten von Google: <a href="https://www.google.com/intl/de/policies/privacy/partners" target="_blank">https://www.google.com/intl/de/policies/privacy/partners</a> ("Datennutzung durch Google bei Ihrer Nutzung von Websites oder Apps unserer Partner"), <a href="http://www.google.com/policies/technologies/ads" target="_blank">http://www.google.com/policies/technologies/ads</a> ("Datennutzung zu Werbezwecken"), <a href="http://www.google.de/settings/ads" target="_blank">http://www.google.de/settings/ads</a> ("Informationen verwalten, die Google verwendet, um Ihnen Werbung einzublenden") und <a href="http://www.google.com/ads/preferences" target="_blank">http://www.google.com/ads/preferences</a> ("Bestimmen Sie, welche Werbung Google Ihnen zeigt").
+
+<h2>7. Google-Re/Marketing-Services</h2>
+
+Wir nutzen die Marketing- und Remarketing-Dienste (kurz "Google-Marketing-Services") der Google Ireland Ltd., Gordon House, 4 Barrow St,Dublin, D04 E5W5, Irland, ("Google").
+
+Die Google-Marketing-Services erlauben uns Werbeanzeigen f&uuml;r und auf unserer Website gezielter anzuzeigen, um Nutzern nur Anzeigen zu pr&auml;sentieren, die potentiell deren Interessen entsprechen. Falls Nutzer z.B. Anzeigen f&uuml;r Produkte angezeigt werden, f&uuml;r die er sich auf anderen Webseiten interessiert hat, spricht man hierbei vom "Remarketing". Zu diesen Zwecken wird bei Aufruf unserer und anderer Webseiten, auf denen Google-Marketing-Services aktiv sind, unmittelbar durch Google ein Code von Google ausgef&uuml;hrt und es werden in die Website sog. (Re)marketing-Tags (unsichtbare Grafiken oder Code, auch als "Web Beacons" bezeichnet) in die Webseite eingebunden. Mit deren Hilfe wird auf dem Ger&auml;t der Nutzer ein individuelles Cookie, d.h. eine kleine Datei abgespeichert (statt Cookies k&ouml;nnen auch vergleichbare Technologien verwendet werden). Die Cookies k&ouml;nnen von verschiedenen Domains gesetzt werden, unter anderem von google.com, doubleclick.net, invitemedia.com, admeld.com, googlesyndication.com oder googleadservices.com. In dieser Datei wird vermerkt, welche Webseiten der Nutzer aufgesucht, f&uuml;r welche Inhalte er sich interessiert und welche Angebote er geklickt hat, ferner technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung des Onlineangebotes. Es wird ebenfalls die IP-Adresse der Nutzer erfasst, wobei wir im Rahmen von Google-Analytics mitteilen, dass die IP-Adresse innerhalb von Mitgliedstaaten der Europ&auml;ischen Union oder in anderen Vertragsstaaten des Abkommens &uuml;ber den Europ&auml;ischen Wirtschaftsraum gek&uuml;rzt und nur in Ausnahmef&auml;llen ganz an einen Server von Google in den USA &uuml;bertragen und dort gek&uuml;rzt wird. Die IP-Adresse wird nicht mit Daten des Nutzers innerhalb von anderen Angeboten von Google zusammengef&uuml;hrt. Diese vorstehend genannten Informationen k&ouml;nnen auch mit solchen Informationen aus anderen Quellen verbunden werden. Wenn der Nutzer anschlie&szlig;end andere Webseiten besucht, k&ouml;nnen ihm entsprechend seiner Interessen die auf ihn abgestimmten Anzeigen angezeigt werden.
+
+Die Daten der Nutzer werden im Rahmen der Google-Marketing-Services pseudonym verarbeitet. D.h. Google speichert und verarbeitet z.B. nicht den Namen oder E-Mailadresse der Nutzer, sondern verarbeitet die relevanten Daten Cookie-bezogen innerhalb pseudonymer Nutzer-Profile. D.h. aus der Sicht von Google werden die Anzeigen nicht f&uuml;r eine konkret identifizierte Person verwaltet und angezeigt, sondern f&uuml;r den Cookie-Inhaber, unabh&auml;ngig davon wer dieser Cookie-Inhaber ist. Dies gilt nicht, wenn ein Nutzer Google ausdr&uuml;cklich erlaubt hat, die Daten ohne diese Pseudonymisierung zu verarbeiten. Die von "DoubleClick" &uuml;ber die Nutzer gesammelten Informationen werden an Google &uuml;bermittelt und auf Googles Servern in den USA gespeichert.
+
+Zu den von uns eingesetzten Google-Marketing-Services geh&ouml;rt u.a. das Online-Werbeprogramm "Google AdWords". Im Fall von Google AdWords, erh&auml;lt jeder AdWords-Kunde ein anderes "Conversion-Cookie". Cookies k&ouml;nnen somit nicht &uuml;ber die Websites von AdWords-Kunden nachverfolgt werden. Die mit Hilfe des Cookies eingeholten Informationen dienen dazu, Conversion-Statistiken f&uuml;r AdWords-Kunden zu erstellen, die sich f&uuml;r Conversion-Tracking entschieden haben. Die AdWords-Kunden erfahren die Gesamtanzahl der Nutzer, die auf ihre Anzeige geklickt haben und zu einer mit einem Conversion-Tracking-Tag versehenen Seite weitergeleitet wurden. Sie erhalten jedoch keine Informationen, mit denen sich Nutzer pers&ouml;nlich identifizieren lassen.
+
+Wir binden auf Grundlage des Google-Marketing-Services "DoubleClick" Werbeanzeigen Dritter ein. DoubleClick verwendet Cookies, mit dem Google und seinen Partner-Websites, die Schaltung von Anzeigen auf Basis der Besuche von Nutzern auf dieser Website bzw. anderen Websites im Internet erm&ouml;glicht wird.
+
+Wir binden ferner auf Grundlage des Google-Marketing-Services "AdSense" Werbeanzeigen Dritter ein. AdSense verwendet Cookies, mit dem Google und seinen Partner-Websites, die Schaltung von Anzeigen auf Basis der Besuche von Nutzern auf dieser Website bzw. anderen Websites im Internet erm&ouml;glicht wird.
+
+Ein weiterer von uns genutzter Google-Marketing-Service ist der "Google Tag Manager", mit dessen Hilfe weitere Google Analyse- und Marketing-Dienste in unsere Website eingebunden werden k&ouml;nnen (z.B. "AdWords", "DoubleClick" oder "Google Analytics").
+
+Weitere Informationen zur Datennutzung zu Marketingzwecken durch Google, erfahren Sie auf der &Uuml;bersichtsseite: <a href="https://www.google.com/policies/technologies/ads" target="_blank">https://www.google.com/policies/technologies/ads</a>, die Datenschutzerkl&auml;rung von Google ist unter <a href="https://www.google.com/policies/privacy" target="_blank">https://www.google.com/policies/privacy</a> abrufbar.
+
+Wenn Sie der Erfassung durch Google-Marketing-Services widersprechen m&ouml;chten, k&ouml;nnen Sie die von Google gestellten Einstellungs- und Opt-Out-M&ouml;glichkeiten nutzen: <a href="http://www.google.com/ads/preferences" target="_blank">http://www.google.com/ads/preferences</a>.
+
+<h2>8. Facebook Social Plugins</h2>
+
+Unser Onlineangebot verwendet Social Plugins ("Plugins") des sozialen Netzwerkes facebook.com, welches von der Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben wird ("Facebook"). Die Plugins sind an einem der Facebook Logos erkennbar (wei&szlig;es "f" auf blauer Kachel, den Begriffen "Like", "Gef&auml;llt mir" oder einem "Daumen hoch"-Zeichen) oder sind mit dem Zusatz "Facebook Social Plugin" gekennzeichnet. Die Liste und das Aussehen der Facebook Social Plugins kann hier eingesehen werden: <a href="https://developers.facebook.com/docs/plugins/" target="_blank">https://developers.facebook.com/docs/plugins/</a>.
+
+Wenn ein Nutzer eine Funktion dieses Onlineangebotes aufruft, die ein solches Plugin enth&auml;lt, baut sein Ger&auml;t eine direkte Verbindung mit den Servern von Facebook auf. Der Inhalt des Plugins wird von Facebook direkt an das Ger&auml;t des Nutzers &uuml;bermittelt und von diesem in das Onlineangebot eingebunden. Dabei k&ouml;nnen aus den verarbeiteten Daten Nutzungsprofile der Nutzer erstellt werden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die Facebook mit Hilfe dieses Plugins erhebt und informiert die Nutzer daher entsprechend unserem Kenntnisstand.
+
+Durch die Einbindung der Plugins erh&auml;lt Facebook die Information, dass ein Nutzer die entsprechende Seite des Onlineangebotes aufgerufen hat. Ist der Nutzer bei Facebook eingeloggt, kann Facebook den Besuch seinem Facebook-Konto zuordnen. Wenn Nutzer mit den Plugins interagieren, zum Beispiel den Like Button bet&auml;tigen oder einen Kommentar abgeben, wird die entsprechende Information von Ihrem Ger&auml;t direkt an Facebook &uuml;bermittelt und dort gespeichert. Falls ein Nutzer kein Mitglied von Facebook ist, besteht trotzdem die M&ouml;glichkeit, dass Facebook seine IP-Adresse in Erfahrung bringt und speichert. Laut Facebook wird in Deutschland nur eine anonymisierte IP-Adresse gespeichert.
+
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Facebook sowie die diesbez&uuml;glichen Rechte und Einstellungsm&ouml;glichkeiten zum Schutz der Privatsph&auml;re der Nutzer, k&ouml;nnen diese den Datenschutzhinweisen von Facebook entnehmen: <a href="https://www.facebook.com/about/privacy/" target="_blank">https://www.facebook.com/about/privacy/</a>.
+
+Wenn ein Nutzer Facebookmitglied ist und nicht m&ouml;chte, dass Facebook &uuml;ber dieses Onlineangebot Daten &uuml;ber ihn sammelt und mit seinen bei Facebook gespeicherten Mitgliedsdaten verkn&uuml;pft, muss er sich vor der Nutzung unseres Onlineangebotes bei Facebook ausloggen und seine Cookies l&ouml;schen. Weitere Einstellungen und Widerspr&uuml;che zur Nutzung von Daten f&uuml;r Werbezwecke, sind innerhalb der Facebook-Profileinstellungen m&ouml;glich: <a href="https://www.facebook.com/settings?tab=ads" target="_blank">https://www.facebook.com/settings?tab=ads</a> oder &uuml;ber die US-amerikanische Seite <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices/</a> oder die EU-Seite <a href="http://www.youronlinechoices.com/" target="_blank">http://www.youronlinechoices.com/</a>. Die Einstellungen erfolgen plattformunabh&auml;ngig, d.h. sie werden f&uuml;r alle Ger&auml;te, wie Desktopcomputer oder mobile Ger&auml;te &uuml;bernommen.
+
+<h2>9. Facebook Remarketing</h2>
+
+Innerhalb unseres Onlineangebotes werden sog. "Facebook-Pixel" des sozialen Netzwerkes Facebook, welches von der Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA, bzw. falls Sie in der EU ans&auml;ssig sind, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben wird ("Facebook"), eingesetzt. Mit Hilfe des Facebook-Pixels ist es Facebook m&ouml;glich, die Besucher unseres Angebotes als Zielgruppe f&uuml;r die Darstellung von Anzeigen, sog. "Facebook-Ads" zu bestimmen. Dementsprechend setzen wir das Facebook -Pixel ein, um die durch uns geschalteten Facebook-Ads nur solchen Facebook-Nutzern anzuzeigen, die auch ein Interesse an unserem Internetangebot gezeigt haben. Das hei&szlig;t, mit Hilfe des Facebook -Pixels m&ouml;chten wir sicherstellen, dass unsere Facebook-Ads dem potentiellen Interesse der Nutzer entsprechen und nicht bel&auml;stigend wirken. Mit Hilfe des Facebook-Pixels k&ouml;nnen wir ferner die Wirksamkeit der Facebook-Werbeanzeigen f&uuml;r statistische und Marktforschungszwecke nachvollziehen, in dem wir sehen ob Nutzer nachdem Klick auf eine Facebook-Werbeanzeige auf unsere Website weitergeleitet wurden.
+
+Der Facebook-Pixel wird beim Aufruf unserer Webseiten unmittelbar durch Facebook eingebunden und k&ouml;nnen auf Ihrem Ger&auml;t ein sog. Cookie, d.h. eine kleine Datei abspeichern. Wenn Sie sich anschlie&szlig;end bei Facebook einloggen oder im eingeloggten Zustand Facebook besuchen, wird der Besuch unseres Angebotes in Ihrem Profil vermerkt. Die &uuml;ber Sie erhobenen Daten sind f&uuml;r uns anonym, bieten uns also keine R&uuml;ckschl&uuml;sse auf die Identit&auml;t der Nutzer. Allerdings werden die Daten von Facebook gespeichert und verarbeitet, sodass eine Verbindung zum jeweiligen Nutzerprofil m&ouml;glich ist. Die Verarbeitung der Daten durch Facebook erfolgt im Rahmen von Facebooks Datenverwendungsrichtlinie. Dementsprechend erhalten Sie weitere Informationen zur Funktionsweise des Remarketing-Pixels und generell zur Darstellung von Facebook-Ads, in der Datenverwendungsrichtlinie von Facebook: <a href="https://www.facebook.com/policy.php" target="_blank">https://www.facebook.com/policy.php</a>.
+
+Sie k&ouml;nnen der Erfassung durch den Facebook-Pixel und Verwendung Ihrer Daten zur Darstellung von Facebook-Ads widersprechen. Hierzu k&ouml;nnen Sie die von Facebook eingerichtete Seite aufrufen und dort die Hinweise zu den Einstellungen nutzungsbasierter Werbung befolgen: <a href="https://www.facebook.com/settings?tab=ads" target="_blank">https://www.facebook.com/settings?tab=ads</a> oder den Widerspruch &uuml;ber die US-amerikanische Seite <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices/</a> oder die EU-Seite <a href="http://www.youronlinechoices.com/" target="_blank">http://www.youronlinechoices.com/</a> erkl&auml;ren. Die Einstellungen erfolgen plattformunabh&auml;ngig, d.h. sie werden f&uuml;r alle Ger&auml;te, wie Desktopcomputer oder mobile Ger&auml;te &uuml;bernommen.
+
+<h2>10. Newsletter</h2>
+
+Mit den nachfolgenden Hinweisen kl&auml;ren wir Sie &uuml;ber die Inhalte unseres Newsletters sowie das Anmelde-, Versand- und das statistische Auswertungsverfahren sowie Ihre Widerspruchsrechte auf. Indem Sie unseren Newsletter abonnieren, erkl&auml;ren Sie sich mit dem Empfang und den beschriebenen Verfahren einverstanden.
+
+Inhalt des Newsletters: Wir versenden Newsletter, E-Mails und weitere elektronische Benachrichtigungen mit werblichen Informationen (nachfolgend "Newsletter") nur mit der Einwilligung der Empf&auml;nger oder einer gesetzlichen Erlaubnis. Sofern im Rahmen einer Anmeldung zum Newsletter dessen Inhalte konkret umschrieben werden, sind sie f&uuml;r die Einwilligung der Nutzer ma&szlig;geblich. Im &Uuml;brigen enthalten unsere Newsletter folgende Informationen:  unsere Produkte, Angebote, Aktionen und unser Unternehmen.
+
+Double-Opt-In und Protokollierung: Die Anmeldung zu unserem Newsletter erfolgt in einem sog. Double-Opt-In-Verfahren. D.h. Sie erhalten nach der Anmeldung eine E-Mail, in der Sie um die Best&auml;tigung Ihrer Anmeldung gebeten werden. Diese Best&auml;tigung ist notwendig, damit sich niemand mit fremden E-Mailadressen anmelden kann. Die Anmeldungen zum Newsletter werden protokolliert, um den Anmeldeprozess entsprechend den rechtlichen Anforderungen nachweisen zu k&ouml;nnen. Hierzu geh&ouml;rt die Speicherung des Anmelde- und des Best&auml;tigungszeitpunkts, als auch der IP-Adresse. Ebenso werden die &Auml;nderungen Ihrer bei dem Versanddienstleister gespeicherten Daten protokolliert.
+
+Versanddienstleister: Der Versand der Newsletter erfolgt mittels von "[newsletter_service]" (nachfolgend bezeichnet als "Versanddienstleister"). Die Datenschutzbestimmungen des Versanddienstleisters k&ouml;nnen Sie hier einsehen: [newsletter_service_privacy_policy].
+
+Die E-Mail-Adressen unserer Newsletterempf&auml;nger, als auch deren weitere, im Rahmen dieser Hinweise beschriebenen Daten, werden auf den Servern des Versanddienstleisters gespeichert. Der Versanddienstleister verwendet diese Informationen zum Versand und zur Auswertung der Newsletter in unserem Auftrag. Des Weiteren kann der Versanddienstleister nach eigenen Informationen diese Daten zur Optimierung oder Verbesserung der eigenen Services nutzen, z.B. zur technischen Optimierung des Versandes und der Darstellung der Newsletter oder f&uuml;r wirtschaftliche Zwecke, um zu bestimmen aus welchen L&auml;ndern die Empf&auml;nger kommen. Der Versanddienstleister nutzt die Daten unserer Newsletterempf&auml;nger jedoch nicht, um diese selbst anzuschreiben oder an Dritte weiterzugeben.
+
+Anmeldedaten: Um sich f&uuml;r den Newsletter anzumelden, reicht es aus, wenn Sie Ihre E-Mailadresse angeben. 
+
+Statistische Erhebung und Analysen - Die Newsletter enthalten einen sog. "web-beacon", d.h. eine pixelgro&szlig;e Datei, die beim &Ouml;ffnen des Newsletters von dem Server des Versanddienstleisters abgerufen wird. Im Rahmen dieses Abrufs werden zun&auml;chst technische Informationen, wie Informationen zum Browser und Ihrem System, als auch Ihre IP-Adresse und Zeitpunkt des Abrufs erhoben. Diese Informationen werden zur technischen Verbesserung der Services anhand der technischen Daten oder der Zielgruppen und ihres Leseverhaltens anhand derer Abruforte (die mit Hilfe der IP-Adresse bestimmbar sind) oder der Zugriffszeiten genutzt. Zu den statistischen Erhebungen geh&ouml;rt ebenfalls die Feststellung, ob die Newsletter ge&ouml;ffnet werden, wann sie ge&ouml;ffnet werden und welche Links geklickt werden. Diese Informationen k&ouml;nnen aus technischen Gr&uuml;nden zwar den einzelnen Newsletterempf&auml;ngern zugeordnet werden. Es ist jedoch weder unser Bestreben, noch das des Versanddienstleisters, einzelne Nutzer zu beobachten. Die Auswertungen dienen uns viel mehr dazu, die Lesegewohnheiten unserer Nutzer zu erkennen und unsere Inhalte auf sie anzupassen oder unterschiedliche Inhalte entsprechend den Interessen unserer Nutzer zu versenden.
+
+K&uuml;ndigung/Widerruf - Sie k&ouml;nnen den Empfang unseres Newsletters jederzeit k&uuml;ndigen, d.h. Ihre Einwilligungen widerrufen. Damit erl&ouml;schen gleichzeitig Ihre Einwilligungen in dessen Versand durch den Versanddienstleister und die statistischen Analysen. Ein getrennter Widerruf des Versandes durch den Versanddienstleister oder die statistische Auswertung ist leider nicht m&ouml;glich. Einen Link zur K&uuml;ndigung des Newsletters finden Sie am Ende eines jeden Newsletters.
+
+<h2>11. Einbindung von Diensten und Inhalten Dritter</h2>
+
+Es kann vorkommen, dass innerhalb unseres Onlineangebotes Inhalte oder Dienste von Dritt-Anbietern, wie zum Beispiel Stadtpl&auml;ne oder Schriftarten von anderen Webseiten eingebunden werden. Die Einbindung von Inhalten der Dritt-Anbieter setzt immer voraus, dass die Dritt-Anbieter die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an den Browser der Nutzer senden k&ouml;nnten. Die IP-Adresse ist damit f&uuml;r die Darstellung dieser Inhalte erforderlich. Des Weiteren k&ouml;nnen die Anbieter der Dritt-Inhalte eigene Cookies setzen und die Daten der Nutzer f&uuml;r eigene Zwecke verarbeiten. Dabei k&ouml;nnen aus den verarbeiteten Daten Nutzungsprofile der Nutzer erstellt werden. Wir werden diese Inhalte m&ouml;glichst datensparsam und datenvermeidend einsetzen sowie im Hinblick auf die Datensicherheit zuverl&auml;ssige Dritt-Anbieter w&auml;hlen.
+
+Die nachfolgende Darstellung bietet eine &Uuml;bersicht von Dritt-Anbietern sowie ihrer Inhalte, nebst Links zu deren Datenschutzerkl&auml;rungen, welche weitere Hinweise zur Verarbeitung von Daten und, z.T. bereits hier genannt, Widerspruchsm&ouml;glichkeiten (sog. Opt-Out) enthalten:
+
+- Externe Schriftarten von Google, Inc., <a href="https://www.google.com/fonts" target="_blank">https://www.google.com/fonts</a> ("Google Fonts"). Die Einbindung der Google Fonts erfolgt durch einen Serveraufruf bei Google (in der Regel in den USA). Datenschutzerkl&auml;rung: <a href="https://www.google.com/policies/privacy/" target="_blank">https://www.google.com/policies/privacy/</a>, Opt-Out: <a href="https://www.google.com/settings/ads/" target="_blank">https://www.google.com/settings/ads/</a>.
+
+- Landkarten des Dienstes "Google Maps" des Dritt-Anbieters Google Ireland Ltd., Gordon House, 4 Barrow St,Dublin, D04 E5W5, Irland, gestellt. Datenschutzerkl&auml;rung: <a href="https://www.google.com/policies/privacy/" target="_blank">https://www.google.com/policies/privacy/</a>, Opt-Out: <a href="https://www.google.com/settings/ads/" target="_blank">https://www.google.com/settings/ads/</a>.
+
+- Videos der Plattform "YouTube" des Dritt-Anbieters Google Ireland Ltd., Gordon House, 4 Barrow St,Dublin, D04 E5W5, Irland. Datenschutzerkl&auml;rung: <a href="https://www.google.com/policies/privacy/" target="_blank">https://www.google.com/policies/privacy/</a>, Opt-Out: <a href="https://www.google.com/settings/ads/" target="_blank">https://www.google.com/settings/ads/</a>.
+
+<h2>12. Rechte der Nutzer und L&ouml;schung von Daten</h2>
+
+Nutzer haben das Recht, auf Antrag unentgeltlich Auskunft zu erhalten &uuml;ber die personenbezogenen Daten, die von uns &uuml;ber sie gespeichert wurden.
+Zus&auml;tzlich haben die Nutzer das Recht auf Berichtigung unrichtiger Daten, Widerruf von Einwilligungen, Sperrung und L&ouml;schung ihrer personenbezogenen Daten sowie das Recht, im Fall der Annahme einer unrechtm&auml;&szlig;igen Datenverarbeitung eine Beschwerde bei der zust&auml;ndigen Aufsichtsbeh&ouml;rde einzureichen.
+
+Die bei uns gespeicherten Daten werden gel&ouml;scht, sobald sie f&uuml;r ihre Zweckbestimmung nicht mehr erforderlich sind und der L&ouml;schung keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+
+<h2>13. &Auml;nderungen der Datenschutzerkl&auml;rung</h2>
+
+Wir behalten uns vor, die Datenschutzerkl&auml;rung zu &auml;ndern, um sie an ge&auml;nderte Rechtslagen, oder bei &Auml;nderungen des Dienstes sowie der Datenverarbeitung anzupassen. Dies gilt jedoch nur im Hinblick auf Erkl&auml;rungen zur Datenverarbeitung. Sofern Einwilligungen der Nutzer erforderlich sind oder Bestandteile der Datenschutzerkl&auml;rung Regelungen des Vertragsverh&auml;ltnisses mit den Nutzern enthalten, erfolgen die &Auml;nderungen nur mit Zustimmung der Nutzer.
+Die Nutzer werden gebeten sich regelm&auml;&szlig;ig &uuml;ber den Inhalt der Datenschutzerkl&auml;rung zu informieren.
+
+Stand: [save_date]
