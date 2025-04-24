@@ -83,56 +83,8 @@
 
                     <?php
 
-
-                    //delete_transient('mr-webinare');
-                    // get them from cache
-                    if ( false === ($products = get_transient( 'mr-webinare' ) ) ) {
-                        // this code runs when there is no valid transient set
-                        // they are not in cache, so refetch them
-                        $response = wp_remote_get( add_query_arg( array(
-                            'category' => 'webinare'
-                        ), 'https://legalweb.io/wp-json/legalweb/v1/webAndSeminar?category=webinare&status=publish' ) );
-
-                        $products = null;
-                        if ( is_wp_error($response) == false ) {
-                            $products = json_decode(json_decode(wp_remote_retrieve_body( $response )), true);
-                            set_transient( 'mr-webinare', $products, 60*60*24 );
-                        }
-
-                    }
-
-
-                    if (($products = get_transient( 'mr-webinare' ) ) && isset($products)) {
-                        $count = 0;
-                        $maxCount = 3;
-                        $result = '';
-                        $result .= '<div class="list-group list-group-flush col-12">';
-                        foreach ($products as $product) {
-                            if ($count == $maxCount) break;
-                            $webinar = $product['post']['data'];
-                            $meta = $product['meta'];
-
-                            $result .= '<div class="list-group-item font-weight-bold py-1 px-1 bg-light">';
-                            $result .= '<a href="' . esc_url($webinar['link']) . '" class="clear" target="_blank">';
-                            $result .= '<span class="seminare-date">' . esc_html(date_format(date_create_from_format("Y-m-d H:i", $meta['event_beginn'][0]), "d.m.")) . ' </span>';
-                            $result .= '<span class="seminare-text">';
-                            $result .= esc_html($webinar['title']['rendered']) . ' <br />';
-                            $result .= '</span>';
-                            $result .= '</a>';
-                            $result .= '</div>';
-
-                            $count++;
-                        }
-                        $result .= '</div>';
-                    }
-
-                    if (isset($result) && isset($products) && count($products) > 0) {
-                        echo wp_kses_post($result);
-                    } else
-                    {
                         _e('Currently no dates planed. You can watch the videos of past webinars on our  <a href="https://www.youtube.com/channel/UCxPJiWLFirO_KJpm-TeyQhg" target="_blank">YouTube channel</a>','shapepress-dsgvo');
-                    }
-                    ?>
+                                        ?>
                 </div>
             </div>
         </div>
