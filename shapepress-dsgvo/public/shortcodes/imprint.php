@@ -124,7 +124,7 @@ function SPDSGVOImprintShortcode($atts){
 
     $imprint[] = SPDSGVOGetFormatedHtmlTextArray('p', __('Responsible for content','shapepress-dsgvo'). ": ".$settings['spdsgvo_company_resp_content']);
 
-    $imprint[] = SPDSGVOGetFormatedHtmlTextArray('p', __('European Commission Online Dispute Resolution (OS) platform for consumers: <a href="https://ec.europa.eu/consumers/odr/" target="_blank">https://ec.europa.eu/consumers/odr/</a>. We are not willing or obliged to participate in a dispute settlement procedure before a consumer arbitration board.','shapepress-dsgvo'));
+    //$imprint[] = SPDSGVOGetFormatedHtmlTextArray('p', __('European Commission Online Dispute Resolution (OS) platform for consumers: <a href="https://ec.europa.eu/consumers/odr/" target="_blank">https://ec.europa.eu/consumers/odr/</a>. We are not willing or obliged to participate in a dispute settlement procedure before a consumer arbitration board.','shapepress-dsgvo'));
 
    // $imprint[] = SPDSGVOGetFormatedHtmlTextArray('p', __('','shapepress-dsgvo'). ": ".$settings['']);
 
