@@ -4,7 +4,7 @@ Donate link: https://legalweb.io
 Tags: gdpr, dsgvo, datenschutz, privacy, privacy policy, imprint, impressum, wordpress, compliance, privacy, woocommerce, law
 Requires at least: 3.0.1
 Tested up to: 6.8.0
-Stable tag: 3.1.35
+Stable tag: 3.1.38
 Requires PHP: 5.6.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -141,6 +141,15 @@ Just install via WordPress plugin feature or upload zip and activate it.
 12. Settings for page operator which are used for privacy policy and imprint
 
 == Changelog ==
+= 3.1.38 =
+* fixed register_rest_route error
+
+= 3.1.37 =
+* security fix for content block shortcode
+
+= 3.1.36 =
+* changed name from DWZI GmbH to Mana-I Navodaya GmbH
+
 = 3.1.35 =
 * removed os dispute from imprint
 
@@ -157,21 +166,6 @@ Just install via WordPress plugin feature or upload zip and activate it.
 = 3.1.30 =
 * improved script injection
 * removed Google Fonts
-
-= 3.1.29 =
-* changed company names of Facebook
-* added imprint url and privacy policy url to wpml-config.xml to support translationing of these urls
-* added secure cookie option on https
-
-= 3.1.28 =
-* fixed cookie notice preview images
-
-= 3.1.27 =
-* improved sanitation and escaping
-* fixed errors at unsubscribe and subject access request
-
-= 3.1.26 =
-* improved sanitation and escaping
 
 == Upgrade Notice ==
 = 3.1.10 =

@@ -63,7 +63,7 @@ class SPDSGVOConstants
             'contabo' => 'Contabo',
             'dogado' => 'Dogado',
             'domainfactory' => 'domainfactory GmbH',
-            'dzwi' => 'DWZI GmbH',
+            'dzwi' => 'Mana-I Navodaya GmbH',
             'easyname' => 'easyname',
             'godaddy' => 'GoDaddy',
             'hetzner' => 'Hetzner Online GmbH',

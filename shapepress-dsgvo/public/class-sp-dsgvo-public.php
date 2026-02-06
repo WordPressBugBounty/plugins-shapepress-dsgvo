@@ -1071,12 +1071,27 @@ class SPDSGVOPublic
             'methods'  => 'GET',
             'callback' => array($this, 'getLwText'),
             'permission_callback' => '__return_true',
-            'args' => array(
-                'locale',
-                'slug',
-                'textId',
-                'includeTagManager'
-            )
+            'args'                => [
+                    'locale' => [
+                            'required'          => false,
+                            'sanitize_callback' => 'sanitize_text_field',
+                    ],
+                    'slug' => [
+                            'required'          => false,
+                            'sanitize_callback' => 'sanitize_text_field',
+                    ],
+                    'textId' => [
+                            'required'          => false,
+                            'sanitize_callback' => 'absint',
+                    ],
+                    'includeTagManager' => [
+                            'required'          => false,
+                            'sanitize_callback' => static function ($v) {
+                                // akzeptiert true/false/1/0/"true"/"false"
+                                return filter_var($v, FILTER_VALIDATE_BOOLEAN, FILTER_NULL_ON_FAILURE) ?? false;
+                            },
+                    ],
+            ],
         ));
     }
 

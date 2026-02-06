@@ -13,11 +13,11 @@ function SPDSGVOContentBlockShortcode($atts, $content){
 	global $OL3_LIBS_LOADED;
 	//$OL3_LIBS_LOADED = 0;
 
-    $shortcode = $params['shortcode'];
+    $shortcode = sanitize_key($params['shortcode']);
     if (empty($shortcode) == false) $content = do_shortcode("[" . $shortcode ."]");
 
     $embeddingApi = SPDSGVOEmbeddingsManager::getInstance()->getEmbeddingApiBySlug($slug);
-    if ($embeddingApi == null) return $content;
+    if ($embeddingApi == null) return wp_kses_post($content);
     // if its allowed by cookie nothing is to do here. otherwise replace iframes, show image, add optin handler
     if ($embeddingApi->checkIfIntegrationIsAllowed($embeddingApi->slug) == true) return $content;
 
