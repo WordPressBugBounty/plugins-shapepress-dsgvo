@@ -16,7 +16,7 @@
  * Plugin Name:       WP DSGVO Tools (GDPR)
  * Plugin URI:        https://legalweb.io
  * Description:       WP DSGVO Tools (GDPR) help you to fulfill the GDPR (DGSVO)  compliance guidance (<a target="_blank" href="https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/">GDPR</a>)
- * Version:           3.1.38
+ * Version:           3.1.39
  * Author:            legalweb
  * Author URI:        https://www.legalweb.io
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
@@ -28,7 +28,7 @@ if (! defined('WPINC')) {
     die();
 }
 
-define('sp_dsgvo_VERSION', '3.1.38');
+define('sp_dsgvo_VERSION', '3.1.39');
 define('sp_dsgvo_NAME', 'sp-dsgvo');
 define('sp_dsgvo_PLUGIN_NAME', 'shapepress-dsgvo');
 define('sp_dsgvo_LEGAL_TEXTS_MIN_VERSION', '1579021814');

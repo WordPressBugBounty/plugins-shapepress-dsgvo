@@ -18,6 +18,10 @@ function SPDSGVOUnsubscribeShortcode($atts){
 
             <p class="sp-dsgvo us-success-message"><?php _e('Request sent successfully. You will receive an email in a few minutes.','shapepress-dsgvo')?></p>
 
+        <?php elseif(isset($_REQUEST['result']) && sanitize_text_field($_REQUEST['result']) === 'request_confirmed'): ?>
+
+            <p class="sp-dsgvo us-success-message"><?php _e('Request confirmed successfully. Your delete request will be processed shortly.','shapepress-dsgvo')?></p>
+
         <?php elseif(isset($_REQUEST['result']) && sanitize_text_field($_REQUEST['result']) === 'confirmed'): ?>
 
 			<p class="sp-dsgvo us-success-message"><?php _e('Request successfully completed. Your data has been completely deleted.','shapepress-dsgvo')?></p>

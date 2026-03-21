@@ -149,7 +149,7 @@ abstract class SPDSGVOAjaxAction{
 		$params = http_build_query(array_merge(array(
 			'action' => (new static())->action), $params),'', '&amp;');
 
-        error_log($params);
+        //error_log($params);
 		return admin_url('/admin-ajax.php') .'?'. $params;
 	}
 
