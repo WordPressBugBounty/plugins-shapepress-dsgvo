@@ -10,11 +10,15 @@ Class SPDSGVOSubjectAccessRequest extends SPDSGVOModel {
 		'last_name',
 		'email',
 	    'dsgvo_accepted',
+		'owner_user_id',
 
 		'token',
 		'status',
 		'pdf_path',
 		'json_path',
+		'download_key_hash',
+		'download_expires_at',
+		'download_used_at',
 	);
 	public $default = array(
 		'status' => 'pending'
@@ -61,6 +65,7 @@ Class SPDSGVOSubjectAccessRequest extends SPDSGVOModel {
 		}
 
 		$locale = SPDSGVOLanguageTools::getInstance()->getCurrentLanguageCode();
+		$downloadKey = $this->issueDownloadKey();
 
 		/* p912419 */
         $title = !empty( SPDSGVOSettings::get('sar_email_title') ) ? SPDSGVOSettings::get('sar_email_title') : __('Subject access request','shapepress-dsgvo');
@@ -88,6 +93,7 @@ Class SPDSGVOSubjectAccessRequest extends SPDSGVOModel {
 
                 'zip_link' 		=> SPDSGVODownloadSubjectAccessRequestAction::url(array(
                 	'token' 	=> $this->token,
+                	'download_key' => $downloadKey,
                 	'file'  	=> 'zip',
                 )),
 
@@ -191,6 +197,61 @@ Class SPDSGVOSubjectAccessRequest extends SPDSGVOModel {
 	    return $randomString;
 	}
 
+    public function issueDownloadKey($ttl = NULL){
+        if($ttl === NULL){
+            $ttl = defined('DAY_IN_SECONDS') ? DAY_IN_SECONDS : 86400;
+        }
+
+        $downloadKey = wp_generate_password(48, FALSE, FALSE);
+        $this->download_key_hash = wp_hash_password($downloadKey);
+        $this->download_expires_at = (string) (current_time('timestamp') + absint($ttl));
+        $this->download_used_at = '';
+        $this->save();
+
+        return $downloadKey;
+    }
+
+    public function hasValidDownloadKey($downloadKey){
+        if(empty($downloadKey) || empty($this->download_key_hash)){
+            return FALSE;
+        }
+
+        if(!empty($this->download_used_at)){
+            return FALSE;
+        }
+
+        $expiresAt = intval($this->download_expires_at);
+        if($expiresAt > 0 && current_time('timestamp') > $expiresAt){
+            return FALSE;
+        }
+
+        return wp_check_password($downloadKey, $this->download_key_hash);
+    }
+
+    public function consumeDownloadKey(){
+        $this->download_used_at = (string) current_time('timestamp');
+        $this->download_key_hash = '';
+        $this->download_expires_at = '';
+        $this->save();
+    }
+
+    public function isOwnedByCurrentUser(){
+        if(!is_user_logged_in()){
+            return FALSE;
+        }
+
+        $user = wp_get_current_user();
+        if(!$user || empty($user->ID)){
+            return FALSE;
+        }
+
+        if(!empty($this->owner_user_id) && intval($this->owner_user_id) === intval($user->ID)){
+            return TRUE;
+        }
+
+        return !empty($this->email) && strcasecmp($this->email, $user->user_email) === 0;
+    }
+
     public function buildPDF(){
 
         if(!class_exists( 'DSGVOTCPDF' )){
@@ -220,7 +281,7 @@ Class SPDSGVOSubjectAccessRequest extends SPDSGVOModel {
         $path = '';
         $fileName = $this->filename('pdf');
         $upload = wp_upload_bits($fileName, NULL, $pdf->Output($path, 'S'));
-        $this->pdf_path = $upload['file'];
+        $this->pdf_path = $this->getUploadedFilePath($upload);
         $this->save();
     }
 
@@ -228,8 +289,24 @@ Class SPDSGVOSubjectAccessRequest extends SPDSGVOModel {
         $json = json_encode($this->collectedData);
         $fileName = 'SAR-'.self::randomString().'.json';
         $upload = wp_upload_bits($fileName, NULL, $json);
-        $this->json_path = $upload['file'];
+        $this->json_path = $this->getUploadedFilePath($upload);
         $this->save();
+    }
+
+    protected function getUploadedFilePath($upload){
+        if(!is_array($upload)){
+            return '';
+        }
+
+        if(!empty($upload['error'])){
+            return '';
+        }
+
+        if(empty($upload['file'])){
+            return '';
+        }
+
+        return $upload['file'];
     }
 }
 

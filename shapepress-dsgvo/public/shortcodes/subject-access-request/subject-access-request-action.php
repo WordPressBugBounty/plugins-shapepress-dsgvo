@@ -22,6 +22,7 @@ Class SPDSGVOSubjectAccessRequestAction extends SPDSGVOAjaxAction{
             'first_name' => $this->get('first_name'),
             'last_name'  => $this->get('last_name'),
             'email'      => $this->get('email', NULL, 'sanitize_email'),
+            'owner_user_id' => $this->getOwningUserId($this->get('email', NULL, 'sanitize_email')),
             'dsgvo_accepted' => $this->get('dsgvo_checkbox')
         ));
 
@@ -35,7 +36,7 @@ Class SPDSGVOSubjectAccessRequestAction extends SPDSGVOAjaxAction{
                 __('A new subject access request from ','shapepress-dsgvo') .' '.$this->get('email')."' was made.");
         }
 
-        if($this->has('process_now')){
+        if($this->has('process_now') && current_user_can('administrator')){
             $displayEmail = ($this->get('display_email', '0') == '1');
             $sar->doSubjectAccessRequest($displayEmail);
         }
@@ -44,7 +45,8 @@ Class SPDSGVOSubjectAccessRequestAction extends SPDSGVOAjaxAction{
             $this->returnBack();
         }
 
-        if($this->has('is_ajax')){
+		/* we dont return the response directly to browser
+        if($this->has('is_ajax') && current_user_can('administrator')){
             echo wp_json_encode(array(
                 'success'   => '1',
                 'zip_link'  => SPDSGVODownloadSubjectAccessRequestAction::url(array(
@@ -57,6 +59,7 @@ Class SPDSGVOSubjectAccessRequestAction extends SPDSGVOAjaxAction{
                 )),
             ));
         }
+		*/
 
         $SARPage = SPDSGVOSettings::get('sar_page');
         if($SARPage !== '0'){
@@ -67,6 +70,23 @@ Class SPDSGVOSubjectAccessRequestAction extends SPDSGVOAjaxAction{
         }
 
         $this->returnBack();
+    }
+
+    protected function getOwningUserId($email){
+        if(!is_user_logged_in()){
+            return '';
+        }
+
+        $user = wp_get_current_user();
+        if(!$user || empty($user->ID) || empty($user->user_email)){
+            return '';
+        }
+
+        if(strcasecmp($user->user_email, $email) !== 0){
+            return '';
+        }
+
+        return (string) $user->ID;
     }
 }
 
